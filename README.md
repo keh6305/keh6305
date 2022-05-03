@@ -22,9 +22,9 @@
 
   <hr/>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keh6305&layout=compact&theme=chartreuse-dark)
-  <br>
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keh6305&show_icons=true&theme=chartreuse-dark)
+  <br/><br/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keh6305&layout=compact&theme=chartreuse-dark)
 </div>
 
 <!--
