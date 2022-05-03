@@ -1,6 +1,7 @@
 ### Hi I'm Eunho 👋
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keh6305)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keh6305&layout=compact&theme=chartreuse-dark)
+<br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keh6305&show_icons=true&theme=chartreuse-dark)
 
 <!--
 **keh6305/keh6305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
