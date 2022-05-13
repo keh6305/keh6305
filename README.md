@@ -24,5 +24,5 @@
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keh6305&show_icons=true&theme=chartreuse-dark&count_private=true)
   <br/><br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keh6305&layout=compact&theme=chartreuse-dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keh6305&layout=compact&theme=chartreuse-dark&count_private=true)
 </div>
